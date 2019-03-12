@@ -1,2 +1,0 @@
-# reactHood
-Created with CodeSandbox
